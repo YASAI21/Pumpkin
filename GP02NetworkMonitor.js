@@ -47,13 +47,13 @@ var GP02NetworkMonitor = (function() {
 			},
 			xAxis: {
 				title: {
-					text: "時間"
+					text: "Time"
 				},
 				type: "datetime",
 			},
 			yAxis: {
 				title: {
-					text: "通信量"
+					text: "Traffic"
 				}
 			},
 			series: [{
